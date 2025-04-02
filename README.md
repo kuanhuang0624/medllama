@@ -1,2 +1,6 @@
 # medllama
-fine tune llama 3.2 for medical report generation
+ fine tune llama for medical report generation
+ 
+
+ The training code is in train_llama_11b.py
+ 
